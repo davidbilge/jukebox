@@ -15,6 +15,10 @@
 
 #### Interfacing with RC522
 * [Java wrapper around some Python scripts](https://github.com/Sacredgamer/RFID-RC552-Interface/blob/master/PiApplication/src/Rfid/RfidListener.java)
+* [Diozero implementation for RC522](https://github.com/mattjlewis/diozero/blob/master/diozero-core/src/main/java/com/diozero/devices/MFRC522.java)
+
+#### GPIO
+* [Pi4J](http://pi4j.com/)
 
 ### Information
 * [Door lock using RC522 and Raspberry Pi](https://tutorials-raspberrypi.de/raspberry-pi-rfid-rc522-tueroeffner-nfc/)
