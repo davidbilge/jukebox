@@ -11,9 +11,9 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
-  <artifactId>jukebox-player</artifactId>
-  <name>jukebox-player</name>
-  <description>Player module for Jukebox</description>
+  <artifactId>jukebox-nfc</artifactId>
+  <name>jukebox-nfc</name>
+  <description>NFC access module for Jukebox</description>
 
   <packaging>jar</packaging>
 
@@ -23,11 +23,10 @@
 
   <dependencies>
     <dependency>
-      <groupId>net.thejavashop</groupId>
-      <artifactId>javampd</artifactId>
-      <version>6.0.0</version>
+      <groupId>com.diozero</groupId>
+      <artifactId>diozero-core</artifactId>
+      <version>0.11</version>
     </dependency>
-
 
     <dependency>
       <groupId>org.junit.jupiter</groupId>
