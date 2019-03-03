@@ -4,6 +4,7 @@
 * [DEBO RFID RC522](https://www.reichelt.de/entwicklerboards-rfid-modul-nxp-mfrc-522-debo-rfid-rc522-p192147.html)
 * [RFID Sticker](https://www.amazon.de/Sticker-selbstklebend-kompatibel-Leseger%C3%A4ten-Aufkleber-Wei%C3%9F/dp/B06XH2R5ZP/ref=sr_1_5?ie=UTF8&qid=1546115349&sr=8-5&keywords=rfid+aufkleber) (Might be incompatible with the above reader/writer)
 * [Mifare Classic 1k Sticker](https://www.amazon.de/nfcBros-Sticker-MIFARE-Classic%C2%AE-Chip-Gr%C3%BCn/dp/B00FMNMXNM/ref=sr_1_14?ie=UTF8&qid=1546435499&sr=8-14&keywords=mifare+1k)
+* [Mifare Ultralight Sticker](https://www.nfc-tag-shop.de/nfc-aufkleber/nfc-sticker-weiss-schwarz/nfc-sticker-38mm-mifare-ultralight-ev1-weiss-625)
 
 ### Inspiration
 * http://phoniebox.de (also on github: https://github.com/MiczFlor/RPi-Jukebox-RFID)
